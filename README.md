@@ -11,6 +11,7 @@
 [![PyPI Downloads](https://static.pepy.tech/badge/mcp-google-sheets)](https://pepy.tech/projects/mcp-google-sheets)
 ![GitHub License](https://img.shields.io/github/license/xing5/mcp-google-sheets)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/xing5/mcp-google-sheets/release.yml)
+[![dhawalshah/mcp-google-sheets MCP server](https://glama.ai/mcp/servers/dhawalshah/mcp-google-sheets/badges/score.svg)](https://glama.ai/mcp/servers/dhawalshah/mcp-google-sheets)
 </div>
 
 ---
