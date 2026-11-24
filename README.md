@@ -422,8 +422,6 @@ Run the server in a container using the included `Dockerfile`:
 
 ```bash
 # Build the image
-
-[![dhawalshah/mcp-google-sheets MCP server](https://glama.ai/mcp/servers/dhawalshah/mcp-google-sheets/badges/score.svg)](https://glama.ai/mcp/servers/dhawalshah/mcp-google-sheets)
 docker build -t mcp-google-sheets .
 
 # Run (SSE on port 8000)
